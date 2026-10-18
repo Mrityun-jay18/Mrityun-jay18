@@ -4,7 +4,7 @@
 ### **IoT Developer & Embedded Systems Enthusiast | Robotics & Hardware Tinkerer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Smart+IoT+Solutions+%F0%9F%8C%90;ESP32+%26+Microcontroller+Hardware+Integration+%E2%9A%A1;Robotics+%26+Automation+Engineer+%F0%9F%A4%96;Turning+Sensors+%26+Silicon+into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Smart+IoT+Solutions+%F0%9F%8C%90;ESP32+%26+Microcontroller+Hardware+Integration+%E2%9A%A1;Robotics+%26+Automation+Engineer+%F0%9F%A4%96;Developing+Project+Aegis+%F0%9F%9B%A1%EF%B8%8F;Turning+Sensors+%26+Silicon+into+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mrityun-jay18&color=blueviolet&style=for-the-badge)](https://github.com/Mrityun-jay18)
@@ -19,6 +19,7 @@
 
 - 🔬 Passionate about **Internet of Things (IoT)**, **Robotics**, and **Embedded Firmware Engineering**.
 - 🛠️ Actively designing real-time connected systems using **ESP32**, **Arduino**, and sensor telemetry.
+- 🛡️ Spearheading **Project Aegis** — an intelligent embedded safety and defense monitoring solution.
 - 📡 Experienced with wireless protocols (**Wi-Fi, Bluetooth/BLE**), cloud dashboards (**Blynk IoT**), and hardware-software telemetry.
 - 🎯 Constantly building practical solutions for environmental monitoring, smart automation, and robotic kinematics.
 - 💬 Ask me about: **ESP32, C/C++, sensor fusion, motor control, or IoT architecture**.
@@ -57,12 +58,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌸 <a href="https://github.com/Mrityun-jay18/Smart-Pollen-Monitoring-System-using-MQ135-BME-280">Smart Pollen & Air Quality Monitor</a></h3>
-      <p>Wi-Fi enabled environmental surveillance station fusing <b>BME280</b> and <b>MQ135</b> sensors with an <b>ESP32</b>. Real-time telemetry streamed directly to the <b>Blynk IoT</b> mobile application for instant alerts and air metrics.</p>
+      <h3>🛡️ <a href="https://github.com/Mrityun-jay18/Aegis">Project Aegis</a></h3>
+      <p>Intelligent embedded safety & protection system. Designed with proactive threat/hazard detection, real-time sensory surveillance, and automated rapid-response alerts.</p>
       <p>
+        <img src="https://img.shields.io/badge/Embedded%20System-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Smart%20Safety-purple?style=flat-square" />
         <img src="https://img.shields.io/badge/ESP32-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/Blynk%20IoT-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -77,18 +78,20 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🌸 <a href="https://github.com/Mrityun-jay18/Smart-Pollen-Monitoring-System-using-MQ135-BME-280">Smart Pollen & Air Quality Monitor</a></h3>
+      <p>Wi-Fi enabled environmental surveillance station fusing <b>BME280</b> and <b>MQ135</b> sensors with an <b>ESP32</b>. Real-time telemetry streamed directly to the <b>Blynk IoT</b> mobile application for instant alerts and air metrics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Blynk%20IoT-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>💧 <a href="https://github.com/Mrityun-jay18/AquaIntel">AquaIntel</a></h3>
       <p>IoT-based intelligent water quality and consumption monitoring system. Tracks critical chemical parameters and flow velocity to prevent wastage and ensure water safety standards.</p>
       <p>
         <img src="https://img.shields.io/badge/Smart%20Water-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/IoT%20Sensors-teal?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Mrityun-jay18">More Hardware Projects in Progress...</a></h3>
-      <p>Currently researching low-power sensory nodes, Edge AI integration with microcontrollers, and custom PCB designs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat-square" />
       </p>
     </td>
   </tr>
