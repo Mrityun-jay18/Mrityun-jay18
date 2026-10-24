@@ -115,18 +115,6 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Activity & Insights
-
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrityun-jay18&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
 
 ### 📬 Get In Touch
 
