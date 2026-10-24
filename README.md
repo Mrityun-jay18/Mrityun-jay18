@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=ECE+Specialized+in+Advanced+Communication+Tech+%F0%9F%93%A1;STM32+%26+ARM+Cortex-M+Automotive+ECU+Firmware+%E2%9A%A1;ESP32+Wireless+Telemetry+%26+IoT+Architectures+%F0%9F%8C%90;4-DOF+Robotics+Kinematics+%26+Trajectory+Playback+%F0%9F%A4%96;Top+40+Finalist+at+Innovest'26+DEEP+Sprint+%F0%9F%8F%86;JLPT+N5+Certified+%E2%80%A2+Targeting+Japanese+Monozukuri+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://mrityun-jay18.github.io)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://mrityunjaygportfolio.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mrityun_Jay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrityun-jay-garnipudi-270351327)
 [![Gmail](https://img.shields.io/badge/Email-mrityun2007jay-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrityun2007jay@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Mrityun-jay18&color=blueviolet&style=for-the-badge)](https://github.com/Mrityun-jay18)
@@ -19,6 +19,7 @@
 
 ### 🚀 About Me
 
+- 🌐 **Live Engineering Portfolio:** [mrityunjaygportfolio.lovable.app](https://mrityunjaygportfolio.lovable.app/)
 - 🔬 **Engineering Focus:** Core Electronics & Communication Engineering with specialization in **Advanced Communication Technology (ACT)**.
 - ⚙️ **Hardware & Firmware:** Designing deterministic embedded systems on **ARM Cortex-M (STM32)** and **ESP32**, writing clean Embedded C/C++ firmware with DMA, CMSIS-DSP, and non-blocking state machines.
 - 🇯🇵 **Japanese Monozukuri (ものづくり) Aspiration:**
@@ -142,7 +143,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mrityun_Jay_Garnipudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://mrityun-jay18.github.io">
+  <a href="https://mrityunjaygportfolio.lovable.app/">
     <img src="https://img.shields.io/badge/Website-Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </p>
